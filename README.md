@@ -1,1 +1,3 @@
-"Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)"
+This project is to make a simple website in html that displays a variety of recipes.
+
+It uses basic html to link pages together, display pictures, and organize information into ordered and unordered lists. And the recipes are all very tasty.
