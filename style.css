@@ -1,12 +1,7 @@
 *{
+    box-sizing:border-box;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
-
-h1{
-    color: blueviolet;
-    font-weight: 800;
-}
-
 h3{
     color:#cc66ff;
     
@@ -14,4 +9,28 @@ h3{
 p {
     color: blue;
     font-size: medium;
+}
+.links-list a {
+    background-color: rgb(7, 18, 175);
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 2em;
+    margin:5px;
+    display: inline-block;
+  }
+  
+ .links-list a:hover {
+    background-color: rgb(66 28 40);
+    color: #fff;
+  }
+
+ .title {
+    border: dotted blue;
+    padding: 20px 0;
+    color: blueviolet;
+    font-weight: 800;
+    text-align: center;
+}
+li {
+    margin:10px;
 }
